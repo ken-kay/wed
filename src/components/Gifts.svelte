@@ -19,22 +19,22 @@
                     Mpesa Marion: 0720806583 Wachira: 0722779250
                 </p> -->
                 
-                    <a href="tel:+254720806583" target="_blank" class="pt-4 text-2xl text-blue-700 hover:text-blue-500 hover:scale-110">
+                    <p class="pt-4 text-2xl ">
                     Marion's Mpesa:
-                    <b> 0720806583  </b>
+                    <b class="text-blue-700 hover:text-blue-500 hover:scale-110"> 0720806583  </b>
                                              
-                    </a>  
+                    </p>  
                     <br>
-                    <br>
+                    <!-- <br> -->
                 
 
                 
-                    <a href="tel:+254722779250" target="_blank" class="pb-4 text-2xl text-blue-700 mb-10 hover:text-blue-500 hover:scale-110">
+                    <p class="pb-4 text-2xl">
                     Wachira's Mpesa:
-                    <b>0722779250</b>
+                    <b class="text-blue-700 mb-10 hover:text-blue-500 hover:scale-110">0722779250</b>
             
                     
-                    </a> 
+                    </p> 
                                 
                     <!-- <p class="mt-3 text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro beatae error laborum ab amet sunt recusandae? Reiciendis natus perspiciatis optio.</p>
                     
