@@ -26,7 +26,7 @@
             <!-- <h1 class="max-w-2xl mb-4 text-2xl font-semibold tracking-tight leading-none md:text-4xl ">
                 If you require accommodation, please contact: 0746 542 026
             </h1> -->
-            <p class="text-4xl font-semibold lg:text-4xl">
+            <p class="text-4xl font-semibold lg:text-4xl ">
                 Accommodation
             </p>
             <div class="w-20 h-2 bg-blue-500 my-4 mx-auto"></div>
@@ -34,14 +34,14 @@
                 If you require accommodation, please contact:
             </p>
             
-            <p class="text-6xl py-4">
+            
                 
-                <a href="tel:+254720806583" class="text-blue-700">
+                <a href="tel:+254720806583" class=" text-6xl py-4 text-blue-700 hover:text-blue-500 hover:scale-110">
                    
-                    <b> 0746 542 026 </b>
+                    <b> 0746542026 </b>
                                              
                 </a>  
-            </p>
+            
 
              
             

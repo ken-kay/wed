@@ -4,22 +4,22 @@
 	import github from '$lib/images/github.svg';
 </script>
 
-<header>
+<header class="">
 	
 	<nav class="fixed right-0 left-0">
-		<svg viewBox="0 0 2 3" aria-hidden="true">
+		<!-- <svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
-		<ul class="gap-4">
-			<li class="hover:text-blue-500"
+		</svg> -->
+		<ul class="gap-4 w-full">
+			<li class=" hover:text-blue-500 hover:scale-110"
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="#accommodation">Accommodation</a>
 			</li>
-			<li class="hover:text-blue-500"
+			<li class="hover:text-blue-500 hover:scale-110"
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="#directions">Directions</a>
 			</li>
-			<li class="hover:text-blue-500"
+			<li class="hover:text-blue-500 hover:scale-110"
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="#gifts">Gifts</a>
 			</li>
@@ -32,9 +32,9 @@
 			</li> -->
 
 		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
+		<!-- <svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
+		</svg> -->
 	</nav>
 
 	<div class="corner fixed left-0 hover:bg-blue-200 rounded-full hidden md:block">
@@ -111,7 +111,7 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
+		--background: rgba(165, 228, 253, 0.336);
 	}
 
 	svg {

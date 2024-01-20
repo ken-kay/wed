@@ -13,12 +13,13 @@
 						If you feel moved to give, a financial blessing would be warmly received.
 					</span> 
 				</p> 
+                <br>
                 
                 <!-- <p>
                     Mpesa Marion: 0720806583 Wachira: 0722779250
                 </p> -->
                 
-                    <a href="tel:+254720806583" class="pt-4 text-2xl text-blue-700">
+                    <a href="tel:+254720806583" class="pt-4 text-2xl text-blue-700 hover:text-blue-500 hover:scale-110">
                     Marion's Mpesa:
                     <b> 0720806583  </b>
                                              
@@ -28,7 +29,7 @@
                 
 
                 
-                    <a href="tel:+254722779250" class="pb-4 text-2xl text-blue-700 mb-10">
+                    <a href="tel:+254722779250" class="pb-4 text-2xl text-blue-700 mb-10 hover:text-blue-500 hover:scale-110">
                     Wachira's Mpesa:
                     <b>0722779250</b>
             

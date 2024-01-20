@@ -20,7 +20,7 @@
 	</main>
 
 	<footer>
-		<p class="text-md">Made by <a href="https://kenani.dev" class="text-blue-500">Kenani</a> with care</p>
+		<p class="text-md">Made by <a href="https://kenani.dev" class="text-blue-500 hover:text-green-500">Kenani</a> with care</p>
 	</footer>
 </div>
 
