@@ -22,7 +22,7 @@
     <div class="w-full max-w-1/2 overflow-hidden rounded-lg shadow-lg">
         <!-- <img class="object-cover w-full h-[50vh]" src="./bed.jpg" alt="accommodation"> -->
 
-        <div class="py-24 text-center">
+        <div class="pt-16 text-center">
             <!-- <h1 class="max-w-2xl mb-4 text-2xl font-semibold tracking-tight leading-none md:text-4xl ">
                 If you require accommodation, please contact: 0746 542 026
             </h1> -->
@@ -36,7 +36,7 @@
             
             
                 
-                <p class=" text-6xl py-4 text-blue-700 hover:text-blue-500">
+                <p class=" text-5xl py-4 text-blue-700 hover:text-blue-500">
                    
                     <b> 0746542026 </b>
                                              
@@ -45,7 +45,7 @@
 
              
             
-            <p class="text-lg pt-2">
+            <p class="text-lg py-2">
                 for further information						
             </p>        
         </div>
