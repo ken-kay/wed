@@ -30,7 +30,7 @@
                 Accommodation
             </p>
             <div class="w-20 h-2 bg-blue-500 my-4 mx-auto"></div>
-            <p class="text-4xl lg:text-4xl">
+            <p class="text-3xl lg:text-4xl">
                 If you require accommodation, please contact:
             </p>
             

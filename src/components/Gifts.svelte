@@ -5,11 +5,11 @@
                 <div class="lg:max-w-lg">
                     <h1 class="text-4xl font-semibold lg:text-4xl">Gifts for the Couple</h1>
 					<div class="w-20 h-2 bg-blue-500 my-4"></div>
-					<p class="text-xl">
+					<p class="text-2xl">
 					Your love is the greatest gift, and your presence at our wedding is all we ask. 
 				</p>
-				<p class="text-xl">
-					<span class="">
+				<p class="text-2xl">
+					<span class="text-blue-900">
 						If you feel moved to give, a financial blessing would be warmly received.
 					</span> 
 				</p> 
