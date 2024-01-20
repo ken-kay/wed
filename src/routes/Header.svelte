@@ -37,7 +37,7 @@
 		</svg>
 	</nav>
 
-	<div class="corner fixed left-0 hover:bg-blue-200 rounded-full">
+	<div class="corner fixed left-0 hover:bg-blue-200 rounded-full hidden md:block">
 		<a href="/">
 			<img class="hover:scale-110 " 
 				src="./favicon.png" alt="logo" />
@@ -46,7 +46,7 @@
 	
 
 
-	<div class="corner fixed right-0 rounded-full">
+	<div class="corner fixed right-0 rounded-full hidden md:block">
 		<a href="https://justrsvp.me/moww" target="_blank">
 			<p class="z-20 fixed font-semibold hover:scale-110 hover:text-blue-500">RSVP</p>
 			<img class="hover:scale-110 " 

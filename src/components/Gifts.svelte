@@ -8,31 +8,33 @@
 					<p class="text-xl">
 					Your love is the greatest gift, and your presence at our wedding is all we ask. 
 				</p>
-				<p class="text-xl ">
+				<p class="text-xl">
 					<span class="">
 						If you feel moved to give, a financial blessing would be warmly received.
 					</span> 
 				</p> 
+                
                 <!-- <p>
                     Mpesa Marion: 0720806583 Wachira: 0722779250
                 </p> -->
-                <p>
+                
                     <a href="tel:+254720806583" class="pt-4 text-2xl text-blue-700">
                     Marion's Mpesa:
                     <b> 0720806583  </b>
                                              
-                </a>  
+                    </a>  
+                    <br>
+                    <br>
+                
 
-                </p>
-
-                <p>
+                
                     <a href="tel:+254722779250" class="pb-4 text-2xl text-blue-700 mb-10">
                     Wachira's Mpesa:
                     <b>0722779250</b>
             
                     
-                </a> 
-                </p>                 
+                    </a> 
+                                
                     <!-- <p class="mt-3 text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro beatae error laborum ab amet sunt recusandae? Reiciendis natus perspiciatis optio.</p>
                     
                     <button class="w-full px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-blue-600 rounded-lg lg:w-auto hover:bg-blue-500 focus:outline-none focus:bg-blue-500">Shop Now</button> -->
