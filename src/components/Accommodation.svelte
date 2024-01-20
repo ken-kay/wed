@@ -36,7 +36,7 @@
             
             
                 
-                <a href="tel:+254720806583" class=" text-6xl py-4 text-blue-700 hover:text-blue-500 hover:scale-110">
+                <a href="tel:+254720806583" target="_blank" class=" text-6xl py-4 text-blue-700 hover:text-blue-500 hover:scale-110">
                    
                     <b> 0746542026 </b>
                                              
