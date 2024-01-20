@@ -2,17 +2,25 @@
 	import Header from './Header.svelte';
 	import './styles.css';
 	import "../app.css";
+  import Accommodation from '../components/Accommodation.svelte';
+  import Directions from '../components/Directions.svelte';
+  import Map from '../components/Map.svelte';
+  import Gifts from '../components/Gifts.svelte';
 </script>
 
 <div class="app">
 	<Header />
+	<Accommodation/>
+	<Directions />
+	<Map />
+	<Gifts />
 
 	<main>
 		<slot />
 	</main>
 
 	<footer>
-		<p class="text-md">Made by <a href="https://kenani.dev">Kenani</a> with care</p>
+		<p class="text-md">Made by <a href="https://kenani.dev" class="text-blue-500">Kenani</a> with care</p>
 	</footer>
 </div>
 
@@ -22,6 +30,11 @@
 		flex-direction: column;
 		min-height: 100vh;
 	}
+
+	/* .title {
+		display: flex;
+		font-family: "Sofia", sans-serif;
+	} */
 
 	main {
 		flex: 1;
