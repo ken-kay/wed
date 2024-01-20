@@ -45,9 +45,9 @@
 
              
             
-            <p class="text-lg py-2">
+            <!-- <p class="text-lg py-2">
                 for further information						
-            </p>        
+            </p>         -->
         </div>
         <img class="object-cover w-full h-[50vh]" src="./bed.jpg" alt="accommodation">
     </div>
