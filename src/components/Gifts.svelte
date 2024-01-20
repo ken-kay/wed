@@ -13,7 +13,7 @@
 						If you feel moved to give, a financial blessing would be warmly received.
 					</span> 
 				</p> 
-                <br>
+                <!-- <br> -->
                 
                 <!-- <p>
                     Mpesa Marion: 0720806583 Wachira: 0722779250
