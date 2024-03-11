@@ -11,7 +11,7 @@
 			</li>
 			<li class="hover:text-blue-500 hover:scale-110"
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="#directions">Directions</a>
+				<a href="#map">Directions</a>
 			</li>
 			<li class="hover:text-blue-500 hover:scale-110"
 				aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
@@ -91,15 +91,15 @@
 		--background: rgba(165, 228, 253, 0.336);
 	}
 
-	svg {
+	/* svg {
 		width: 2em;
 		height: 3em;
 		display: block;
-	}
+	} */
 
-	path {
+	/* path {
 		fill: var(--background);
-	}
+	} */
 
 	ul {
 		position: relative;
