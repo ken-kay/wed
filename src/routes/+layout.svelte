@@ -3,7 +3,7 @@
 	import './styles.css';
 	import "../app.css";
   import Accommodation from '../components/Accommodation.svelte';
-  import Directions from '../components/Directions.svelte';
+//   import Directions from '../components/Directions.svelte';
   import Map from '../components/Map.svelte';
   import Gifts from '../components/Gifts.svelte';
 </script>
@@ -11,7 +11,7 @@
 <div class="app">
 	<Header />
 	<Accommodation/>
-	<Directions />
+	<!-- <Directions /> -->
 	<Map />
 	<Gifts />
 

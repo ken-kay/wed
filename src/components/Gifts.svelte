@@ -6,42 +6,20 @@
                     <h1 class="text-4xl font-semibold lg:text-4xl">Gifts for the Couple</h1>
 					<div class="w-20 h-2 bg-blue-500 my-4"></div>
 					<p class="text-2xl">
-					Your love is the greatest gift, and your presence at our wedding is all we ask. 
+					Your presence at our wedding is plenty. 
 				</p>
 				<p class="text-2xl">
 					<span class="text-blue-900">
-						If you feel moved to give, a financial blessing would be warmly received.
+						If you would like to bring a gift, you can view our wedding wishlist below.
 					</span> 
 				</p> 
-                <!-- <br> -->
-                
-                <!-- <p>
-                    Mpesa Marion: 0720806583 Wachira: 0722779250
-                </p> -->
-                
-                    <p class="pt-4 text-2xl ">
-                    Marion's Mpesa:
-                    <b class="text-blue-700 hover:text-blue-500 hover:scale-110"> 0720806583  </b>
-                                             
-                    </p>  
+                <p class="pt-4 text-2xl ">
+                    Our Wishlist:
+                    <b class="text-blue-700 hover:text-blue-500 hover:scale-110"> Link  </b>
+                </p>  
                     <br>
-                    <!-- <br> -->
-                
-
-                
-                    <p class="pb-4 text-2xl">
-                    Wachira's Mpesa:
-                    <b class="text-blue-700 mb-10 hover:text-blue-500 hover:scale-110">0722779250</b>
-            
-                    
-                    </p> 
-                                
-                    <!-- <p class="mt-3 text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro beatae error laborum ab amet sunt recusandae? Reiciendis natus perspiciatis optio.</p>
-                    
-                    <button class="w-full px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-blue-600 rounded-lg lg:w-auto hover:bg-blue-500 focus:outline-none focus:bg-blue-500">Shop Now</button> -->
                 </div>
             </div>
-
             <div class="flex items-center justify-center w-full mt-6 lg:mt-0 lg:w-1/2">
                 <img class="w-full h-full lg:max-w-3xl" src="./blue_box.jpg" alt="gifts">
             </div>
